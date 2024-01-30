@@ -1,7 +1,15 @@
 ## Hi there 👋
 
 🙋‍♀️ We are a non profit collaboration of two enthusiastic developers from two companies. 
-🍿 We enjoy coding and cycling.
+🍿 We enjoy coding and cycling sometimes more coding than cycling.
+
+# Check our personal pages
+## Juha
+🧙 https://github.com/bittikettu
+
+## Matti
+🧙 https://github.com/Mattti0
+
 <!--
 
 **Here are some ideas to get you started:**
